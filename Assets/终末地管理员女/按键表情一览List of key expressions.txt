@@ -1,0 +1,22 @@
+ctrl+Num1 呆
+ctrl+Num2 企鹅装
+ctrl+Num3 面具
+ctrl+Num5 游戏手柄
+ctrl+Num6 哭
+ctrl+Num7 流泪
+ctrl+Num8 汗
+ctrl+Num9 生气
+ctrl+Num/ 阴暗
+ctrl+Num* 平板
+
+English：
+Ctrl+Num1 stay
+Ctrl+Num2 penguin
+Ctrl+Num3: mask
+Ctrl+Num5 gamepad
+Ctrl+Num6 cry
+Ctrl+Num7 Tears
+Ctrl+Num8 Sweat
+Ctrl+Num9 gets angry
+ctrl+Num/ black face
+ctrl+Num* pad

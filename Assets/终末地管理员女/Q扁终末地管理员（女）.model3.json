@@ -1,0 +1,26 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Q扁终末地管理员（女）.moc3",
+		"Textures": [
+			"Q扁终末地管理员（女）.1024/texture_00.png"
+		],
+		"Physics": "Q扁终末地管理员（女）.physics3.json",
+		"DisplayInfo": "Q扁终末地管理员（女）.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
